@@ -1,4 +1,4 @@
-# bookbot
+# BookBot
 
 No dependencies
 
